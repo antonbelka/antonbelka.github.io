@@ -7,3 +7,5 @@
 [Close browser](bolt://action/closeBrowser)
 
 [Close browser test](bolt://action/closeBrowser?event=test)
+
+[Unsupported](bolt://action/unsupported)
