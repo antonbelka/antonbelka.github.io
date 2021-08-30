@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+[Scooters search](bolt://action/scootersSearch)
+
 [Open RH](bolt://action/openRidehailing)
 
 [Retry order](bolt://action/rentalRetryOrder)
